@@ -1,0 +1,34 @@
+what is algorithem: it is a finite seqence of operation which trasform given input to correct output
+property algorithem: input and output from specific set
+			   defination,finaiteness,correctnes,ifecticeness
+dijestra algorithem: it is work in nonnagative edge waights
+balmensforse algorithem: it is work in nonnagative and nagative edge waights
+best case: f(n)>g(n)
+worst case: f(n)<g(n)
+dived and concore: devide problem into sub problem
+big 
+
+insertaton sort:
+ 		insertion sort is simpele sorting algorithem thet work simmeler to plyaing cards in your hands it is the array is vertuly split into sorted and sorted partvalue form sorted and place into correct
+ p class: polynomiyal time
+>easy to find
+>solvable and tracble
+>deterministic machine
+
+ NP:non deterministie polynomiyal time
+>hard to find
+>casy to varify
+ NP hard:
+>at least as hard as the hardest problem in NP
+>long time to check wether it is right or not
+EX:halting problem
+no hamiltonian cycle
+NP:complete class:
+>A problem is np complete if it is both np and np hard
+>np complete pro are the hardest problem in np
+o/i knapsack
+hamiltonion cycle
+selection sort: selection sort is another sorting algorithem in which we find the minimum alimunt n place begning of first index
+bubble sort:in which compare two aliments and swap them untile there are not intended oreder. 
+
+ 
